@@ -1,6 +1,5 @@
 Sure, here's the complete README content in a single block for easy copying and pasting:
 
-```markdown
 # Final Machine Learning Project
 
 ## Overview
